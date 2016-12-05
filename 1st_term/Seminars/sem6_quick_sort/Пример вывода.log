@@ -1,0 +1,65 @@
+data file: 'const.in.txt'
+numbers of samples: '40000'
+is data sorted: yes
+ std::sort:   0.0008 s [OK]
+  bubble 1:   1.6386 s [OK]
+  bubble 2:   0.0001 s [OK]
+ selection:   1.3959 s [OK]
+ insertion:   0.0001 s [OK]
+     shell:   0.0012 s [OK]
+     merge:   0.0026 s [OK]
+     quick:   1.0960 s [OK]
+std::qsort:   0.0015 s [OK]
+
+data file: 'seq.in.txt'
+numbers of samples: '40000'
+is data sorted: yes
+ std::sort:   0.0008 s [OK]
+  bubble 1:   1.6373 s [OK]
+  bubble 2:   0.0001 s [OK]
+ selection:   1.3643 s [OK]
+ insertion:   0.0002 s [OK]
+     shell:   0.0011 s [OK]
+     merge:   0.0028 s [OK]
+     quick:   0.0034 s [OK]
+std::qsort:   0.0014 s [OK]
+
+data file: 'rseq.in.txt'
+numbers of samples: '40000'
+is data sorted: no
+ std::sort:   0.0006 s [OK]
+  bubble 1:   3.9185 s [OK]
+  bubble 2:   4.4256 s [OK]
+ selection:   1.3633 s [OK]
+ insertion:   1.1040 s [OK]
+     shell:   0.0031 s [OK]
+     merge:   0.0025 s [OK]
+     quick:   0.0038 s [OK]
+std::qsort:   0.0017 s [OK]
+
+data file: 'rand.in.txt'
+numbers of samples: '40000'
+is data sorted: no
+ std::sort:   0.0022 s [OK]
+  bubble 1:   4.7769 s [OK]
+  bubble 2:   4.8981 s [OK]
+ selection:   1.3764 s [OK]
+ insertion:   0.5479 s [OK]
+     shell:   0.0087 s [OK]
+     merge:   0.0050 s [OK]
+     quick:   0.0053 s [OK]
+std::qsort:   0.0043 s [OK]
+
+data file: 'rand_2.in.txt'
+numbers of samples: '40000'
+is data sorted: no
+ std::sort:   0.0021 s [OK]
+  bubble 1:   4.7794 s [OK]
+  bubble 2:   4.8982 s [OK]
+ selection:   1.3711 s [OK]
+ insertion:   0.5423 s [OK]
+     shell:   0.0084 s [OK]
+     merge:   0.0049 s [OK]
+     quick:   0.0054 s [OK]
+std::qsort:   0.0042 s [OK]
+
