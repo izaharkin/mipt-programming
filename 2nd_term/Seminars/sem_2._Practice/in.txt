@@ -1,0 +1,18 @@
+#include <iostream>
+
+/* COMMENT 1 */
+
+int main()
+{
+	// COMMENT 4
+/*
+LOL
+*/
+	return 0;
+}
+
+// COMMENT 2
+/* //COMMENT 3 
+ /* COMMENT 5 */ 
+*/
+

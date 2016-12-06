@@ -1,0 +1,10 @@
+map 20 10
+show
+create lake depth 3 at 1 1 size 3
+create mountain height 1000 at 15 7 size 2
+create forest at 9 1 size 2
+create hero Axe at 1 1 hp 500
+create monster at 7 1 hp 100
+show
+dump
+quit
