@@ -1,0 +1,34 @@
+﻿Сборка начата 29.05.2016 17:03:12.
+     1>Проект "D:\PROGRAMMING\MIPT\1 курс\2 семестр\Tasks\Third\6. Associative array\HashTable\HashTable\HashTable.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\programming\mipt\1 курс\2 семестр\tasks\third\6. associative array\hashtable\hashtable\hashtablechain.h(179): error C2665: HashTableWithCnains<int,int>::HashTableIterator::HashTableIterator: ни одна из 3 перегрузок не может преобразовать все типы аргументов
+                 d:\programming\mipt\1 курс\2 семестр\tasks\third\6. associative array\hashtable\hashtable\hashtablechain.h(61): может быть "HashTableWithCnains<int,int>::HashTableIterator::HashTableIterator(const std::_Vector_iterator<std::_Vector_val<std::_Simple_types<std::pair<KeyType,DataType>>>>,const std::shared_ptr<std::vector<HashTableWithCnains<KeyType,DataType>::Slot,std::allocator<_Ty>>>)"
+                 with
+                 [
+                     KeyType=int
+         ,            DataType=int
+         ,            _Ty=HashTableWithCnains<int,int>::Slot
+                 ]
+                 при попытке сопоставить список аргументов "(nullptr, std::shared_ptr<std::vector<HashTableWithCnains<int,int>::Slot,std::allocator<_Ty>>>)"
+                 with
+                 [
+                     _Ty=HashTableWithCnains<int,int>::Slot
+                 ]
+                 d:\programming\mipt\1 курс\2 семестр\tasks\third\6. associative array\hashtable\hashtable\hashtablechain.h(171): при компиляции функции-члена "HashTableWithCnains<int,int>::HashTableIterator HashTableWithCnains<int,int>::find(const KeyType &)" класса шаблон
+                 with
+                 [
+                     KeyType=int
+                 ]
+                 d:\programming\mipt\1 курс\2 семестр\tasks\third\6. associative array\hashtable\hashtable\main.cpp(17): см. ссылку на создание экземпляров функции шаблон при компиляции "HashTableWithCnains<int,int>::HashTableIterator HashTableWithCnains<int,int>::find(const KeyType &)"
+                 with
+                 [
+                     KeyType=int
+                 ]
+                 d:\programming\mipt\1 курс\2 семестр\tasks\third\6. associative array\hashtable\hashtable\main.cpp(5): см. ссылку на создание экземпляров класса шаблон при компиляции "HashTableWithCnains<int,int>"
+     1>Сборка проекта "D:\PROGRAMMING\MIPT\1 курс\2 семестр\Tasks\Third\6. Associative array\HashTable\HashTable\HashTable.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:01.42
