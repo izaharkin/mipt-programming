@@ -1,0 +1,9 @@
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/string_from_zfunc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/string_from_zfunc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/string_from_zfunc/cmake-build-debug/CMakeFiles/run_solver.dir
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/string_from_zfunc/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/string_from_zfunc/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/string_from_zfunc/cmake-build-debug/src/CMakeFiles/string_restore_lib.dir
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/string_from_zfunc/cmake-build-debug/test/CMakeFiles/edit_cache.dir
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/string_from_zfunc/cmake-build-debug/test/CMakeFiles/rebuild_cache.dir
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/string_from_zfunc/cmake-build-debug/test/CMakeFiles/string_restore_test.dir

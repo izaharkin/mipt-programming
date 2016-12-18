@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Fifteens"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\src\;CMake Files\test\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="run_fifteens">
+				<Option output="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/run_fifteens" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/Makefile&quot;  VERBOSE=1 run_fifteens"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="run_fifteens/fast">
+				<Option output="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/run_fifteens" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/Makefile&quot;  VERBOSE=1 run_fifteens/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="astar_lib">
+				<Option output="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/src/libastar_lib.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 astar_lib"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="astar_lib/fast">
+				<Option output="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/src/libastar_lib.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 astar_lib/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="run_common_test">
+				<Option output="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/test/run_common_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/test"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 run_common_test"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="run_common_test/fast">
+				<Option output="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/test/run_common_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/test"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 run_common_test/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/main.cpp">
+			<Option target="run_fifteens"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/src/AStar.cpp">
+			<Option target="astar_lib"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/src/AStar.h">
+			<Option target="astar_lib"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/src/Action.cpp">
+			<Option target="astar_lib"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/src/Action.h">
+			<Option target="astar_lib"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/src/Board.cpp">
+			<Option target="astar_lib"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/src/Board.h">
+			<Option target="astar_lib"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/src/Puzzle.cpp">
+			<Option target="astar_lib"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/src/Puzzle.h">
+			<Option target="astar_lib"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/src/TilesSolver.cpp">
+			<Option target="astar_lib"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/src/TilesSolver.h">
+			<Option target="astar_lib"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/test/basic_check.cpp">
+			<Option target="run_common_test"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

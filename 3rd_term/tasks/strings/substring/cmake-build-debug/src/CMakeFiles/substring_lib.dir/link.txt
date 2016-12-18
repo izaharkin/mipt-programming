@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -g  -shared -Wl,-soname,libsubstring_lib.so -o libsubstring_lib.so CMakeFiles/substring_lib.dir/KMPStrategy.cpp.o CMakeFiles/substring_lib.dir/StringFunctions.cpp.o CMakeFiles/substring_lib.dir/SubstringFinder.cpp.o CMakeFiles/substring_lib.dir/SubstringSolver.cpp.o 

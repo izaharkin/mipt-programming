@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/string_restore_test.dir/global_test.cpp.o  -o string_restore_test ../src/libstring_restore_lib.so -lgtest -lgtest_main -lgtest -lpthread -Wl,-rpath,/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/string_from_zfunc/cmake-build-debug/src 

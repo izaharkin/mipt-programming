@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="D_Different_subsrtings"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\src\;CMake Files\test\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="D_Different_subsrtings">
+				<Option output="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/D_Different_subsrtings" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/Makefile&quot;  VERBOSE=1 D_Different_subsrtings"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="D_Different_subsrtings/fast">
+				<Option output="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/D_Different_subsrtings" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/Makefile&quot;  VERBOSE=1 D_Different_subsrtings/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sufarr_lib">
+				<Option output="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/src/libsufarr_lib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 sufarr_lib"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sufarr_lib/fast">
+				<Option output="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/src/libsufarr_lib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 sufarr_lib/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="distinct_substrings_test">
+				<Option output="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/test/distinct_substrings_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/test"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 distinct_substrings_test"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="distinct_substrings_test/fast">
+				<Option output="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/test/distinct_substrings_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/test"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 distinct_substrings_test/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/main.cpp">
+			<Option target="D_Different_subsrtings"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/src/DistinctStringSolver.cpp">
+			<Option target="sufarr_lib"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/src/DistinctStringSolver.h">
+			<Option target="sufarr_lib"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/src/SubstringsQuantitySolver.cpp">
+			<Option target="sufarr_lib"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/src/SubstringsQuantitySolver.h">
+			<Option target="sufarr_lib"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/src/SuffixArray.cpp">
+			<Option target="sufarr_lib"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/src/SuffixArray.h">
+			<Option target="sufarr_lib"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/src/SuffixArrayStrategy.cpp">
+			<Option target="sufarr_lib"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/src/SuffixArrayStrategy.h">
+			<Option target="sufarr_lib"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/src/utils.cpp">
+			<Option target="sufarr_lib"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/src/utils.h">
+			<Option target="sufarr_lib"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/test/global_test.cpp">
+			<Option target="distinct_substrings_test"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

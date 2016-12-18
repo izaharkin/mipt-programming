@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/run_fifteens.dir/main.cpp.o  -o run_fifteens src/libastar_lib.so -Wl,-rpath,/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/src 

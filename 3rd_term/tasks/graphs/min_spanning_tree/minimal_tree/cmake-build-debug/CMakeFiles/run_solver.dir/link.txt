@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/run_solver.dir/main.cpp.o  -o run_solver src/libmin_sp_tree_lib.a 

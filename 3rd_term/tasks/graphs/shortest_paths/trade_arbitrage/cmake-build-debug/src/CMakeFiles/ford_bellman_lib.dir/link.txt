@@ -1,0 +1,2 @@
+/usr/bin/ar qc libford_bellman_lib.a  CMakeFiles/ford_bellman_lib.dir/Edge.cpp.o CMakeFiles/ford_bellman_lib.dir/Graph.cpp.o CMakeFiles/ford_bellman_lib.dir/TradeArbitrageSolver.cpp.o
+/usr/bin/ranlib libford_bellman_lib.a

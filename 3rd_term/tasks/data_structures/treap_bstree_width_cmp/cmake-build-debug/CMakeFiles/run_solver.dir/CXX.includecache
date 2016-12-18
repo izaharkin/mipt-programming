@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/treap_bstree_width_cmp/main.cpp
+iostream
+-
+src/WidthSolver.h
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/treap_bstree_width_cmp/src/WidthSolver.h
+
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/treap_bstree_width_cmp/src/BSTree.h
+memory
+-
+queue
+-
+vector
+-
+
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/treap_bstree_width_cmp/src/Treap.h
+memory
+-
+queue
+-
+
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/treap_bstree_width_cmp/src/WidthSolver.h
+iostream
+-
+vector
+-
+BSTree.h
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/treap_bstree_width_cmp/src/BSTree.h
+Treap.h
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/treap_bstree_width_cmp/src/Treap.h
+

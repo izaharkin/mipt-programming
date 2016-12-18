@@ -1,0 +1,6 @@
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/trade_arbitrage/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/trade_arbitrage/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/trade_arbitrage/cmake-build-debug/CMakeFiles/trade_arbitrage.dir
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/trade_arbitrage/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/trade_arbitrage/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/trade_arbitrage/cmake-build-debug/src/CMakeFiles/ford_bellman_lib.dir

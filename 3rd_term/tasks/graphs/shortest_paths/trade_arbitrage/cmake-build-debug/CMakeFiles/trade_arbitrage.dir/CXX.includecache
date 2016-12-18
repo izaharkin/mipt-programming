@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/trade_arbitrage/main.cpp
+src/TradeArbitrageSolver.h
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/trade_arbitrage/src/TradeArbitrageSolver.h
+
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/trade_arbitrage/src/Edge.h
+constants.h
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/trade_arbitrage/src/constants.h
+
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/trade_arbitrage/src/Graph.h
+memory
+-
+vector
+-
+Edge.h
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/trade_arbitrage/src/Edge.h
+
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/trade_arbitrage/src/TradeArbitrageSolver.h
+iostream
+-
+memory
+-
+cmath
+-
+Graph.h
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/trade_arbitrage/src/Graph.h
+
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/trade_arbitrage/src/constants.h
+cfloat
+-
+

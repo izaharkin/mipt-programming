@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/run_common_test.dir/basic_check.cpp.o  -o run_common_test ../src/libastar_lib.so -lgtest -lgtest_main -Wl,-rpath,/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/fifteens/cmake-build-debug/src 

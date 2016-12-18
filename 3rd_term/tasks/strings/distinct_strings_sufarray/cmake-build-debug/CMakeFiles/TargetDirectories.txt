@@ -1,0 +1,9 @@
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/CMakeFiles/D_Different_subsrtings.dir
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/src/CMakeFiles/sufarr_lib.dir
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/test/CMakeFiles/rebuild_cache.dir
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/test/CMakeFiles/edit_cache.dir
+/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/distinct_strings_sufarray/cmake-build-debug/test/CMakeFiles/distinct_substrings_test.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++14 -g   CMakeFiles/run_basic_tests.dir/basic_check.cpp.o  -o run_basic_tests -lgtest -lgtest_main ../src/libmin_sp_tree_lib.a -lgtest -lpthread 

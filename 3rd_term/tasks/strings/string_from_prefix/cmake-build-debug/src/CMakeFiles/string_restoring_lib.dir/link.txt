@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -std=c++11 -g  -shared -Wl,-soname,libstring_restoring_lib.so -o libstring_restoring_lib.so CMakeFiles/string_restoring_lib.dir/StringFunctions.cpp.o CMakeFiles/string_restoring_lib.dir/StringTransformer.cpp.o CMakeFiles/string_restoring_lib.dir/StringRestoringSolver.cpp.o 

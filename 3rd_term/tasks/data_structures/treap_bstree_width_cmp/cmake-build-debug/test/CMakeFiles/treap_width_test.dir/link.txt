@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -g   CMakeFiles/treap_width_test.dir/global_test.cpp.o  -o treap_width_test ../src/libtrees_lib.so -lgtest -lgtest_main -Wl,-rpath,/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/treap_bstree_width_cmp/cmake-build-debug/src 

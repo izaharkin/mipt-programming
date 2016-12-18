@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="googletest-distribution"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\src\;CMake Files\test\;CMake Files\test\googletest\;CMake Files\test\googletest\googlemock\;CMake Files\test\googletest\googletest\;CMake Files\test\googletest\googletest\cmake\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gmock_main">
+				<Option output="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/libgmock_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googlemock/include"/>
+					<Add directory="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googlemock"/>
+					<Add directory="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googletest/include"/>
+					<Add directory="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googletest"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/Makefile&quot;  VERBOSE=1 gmock_main"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gmock_main/fast">
+				<Option output="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/libgmock_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googlemock/include"/>
+					<Add directory="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googlemock"/>
+					<Add directory="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googletest/include"/>
+					<Add directory="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googletest"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/Makefile&quot;  VERBOSE=1 gmock_main/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gmock">
+				<Option output="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/libgmock.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googlemock/include"/>
+					<Add directory="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googlemock"/>
+					<Add directory="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googletest/include"/>
+					<Add directory="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googletest"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/Makefile&quot;  VERBOSE=1 gmock"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gmock/fast">
+				<Option output="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/libgmock.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googlemock/include"/>
+					<Add directory="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googlemock"/>
+					<Add directory="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googletest/include"/>
+					<Add directory="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googletest"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/Makefile&quot;  VERBOSE=1 gmock/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_main">
+				<Option output="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/gtest/libgtest_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/gtest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googletest/include"/>
+					<Add directory="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googletest"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest_main"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_main/fast">
+				<Option output="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/gtest/libgtest_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/gtest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googletest/include"/>
+					<Add directory="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googletest"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest_main/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest">
+				<Option output="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/gtest/libgtest.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/gtest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googletest/include"/>
+					<Add directory="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googletest"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest/fast">
+				<Option output="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/gtest/libgtest.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/gtest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googletest/include"/>
+					<Add directory="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googletest"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.2.1/../../../../include/c++/6.2.1/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/cmake-build-debug/test/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googlemock/src/gmock-all.cc">
+			<Option target="gmock_main"/>
+			<Option target="gmock"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googlemock/src/gmock_main.cc">
+			<Option target="gmock_main"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googletest/src/gtest-all.cc">
+			<Option target="gmock_main"/>
+			<Option target="gmock"/>
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googletest/src/gtest_main.cc">
+			<Option target="gtest_main"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\googletest\"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\googletest\"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googlemock/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\googletest\googlemock\"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googlemock/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\googletest\googlemock\"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googlemock/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\googletest\googlemock\"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googletest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\googletest\googletest\"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googletest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\googletest\googletest\"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googletest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\googletest\googletest\"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googletest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\googletest\googletest\"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googletest/cmake/internal_utils.cmake">
+			<Option virtualFolder="CMake Files\test\googletest\googletest\cmake\"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googletest/cmake/internal_utils.cmake">
+			<Option virtualFolder="CMake Files\test\googletest\googletest\cmake\"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googletest/cmake/internal_utils.cmake">
+			<Option virtualFolder="CMake Files\test\googletest\googletest\cmake\"/>
+		</Unit>
+		<Unit filename="/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/second_statistics/test/googletest/googletest/cmake/internal_utils.cmake">
+			<Option virtualFolder="CMake Files\test\googletest\googletest\cmake\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

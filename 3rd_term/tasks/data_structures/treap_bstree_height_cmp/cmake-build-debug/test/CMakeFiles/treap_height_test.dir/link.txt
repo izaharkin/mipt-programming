@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -g   CMakeFiles/treap_height_test.dir/global_test.cpp.o  -o treap_height_test ../src/libtrees_lib.a -lgtest -lgtest_main 

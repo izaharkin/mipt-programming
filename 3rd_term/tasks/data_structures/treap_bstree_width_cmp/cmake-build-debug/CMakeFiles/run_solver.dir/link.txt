@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -g   CMakeFiles/run_solver.dir/main.cpp.o  -o run_solver src/libtrees_lib.so -Wl,-rpath,/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/treap_bstree_width_cmp/cmake-build-debug/src 

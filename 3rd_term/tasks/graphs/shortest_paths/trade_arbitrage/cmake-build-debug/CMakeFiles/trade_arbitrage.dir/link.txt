@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/trade_arbitrage.dir/main.cpp.o  -o trade_arbitrage src/libford_bellman_lib.a 

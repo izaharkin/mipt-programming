@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -std=c++11 -g  -shared -Wl,-soname,libtrees_lib.so -o libtrees_lib.so CMakeFiles/trees_lib.dir/WidthSolver.cpp.o 

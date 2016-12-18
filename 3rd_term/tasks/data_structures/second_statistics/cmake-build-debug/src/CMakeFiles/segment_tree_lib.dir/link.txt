@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsegment_tree_lib.a  CMakeFiles/segment_tree_lib.dir/SegmentTree.cpp.o CMakeFiles/segment_tree_lib.dir/SecondStatisticsSolver.cpp.o
+/usr/bin/ranlib libsegment_tree_lib.a
