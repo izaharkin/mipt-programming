@@ -1,1 +1,0 @@
-/usr/bin/c++    -std=c++14 -g   CMakeFiles/segment_tree_test.dir/global_test.cpp.o  -o segment_tree_test ../src/libsegment_tree_lib.a -lgtest -lgtest_main -lgtest -lpthread 

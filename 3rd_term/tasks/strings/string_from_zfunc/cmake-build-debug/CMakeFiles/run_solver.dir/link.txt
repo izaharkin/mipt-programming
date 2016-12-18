@@ -1,1 +1,0 @@
-/usr/bin/c++   -g   CMakeFiles/run_solver.dir/main.cpp.o  -o run_solver src/libstring_restore_lib.so -Wl,-rpath,/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/string_from_zfunc/cmake-build-debug/src 

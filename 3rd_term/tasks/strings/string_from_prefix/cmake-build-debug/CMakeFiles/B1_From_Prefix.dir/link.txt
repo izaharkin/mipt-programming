@@ -1,1 +1,0 @@
-/usr/bin/c++    -std=c++11 -g   CMakeFiles/B1_From_Prefix.dir/main.cpp.o  -o B1_From_Prefix src/libstring_restoring_lib.so -Wl,-rpath,/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/string_from_prefix/cmake-build-debug/src 

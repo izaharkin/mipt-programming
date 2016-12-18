@@ -1,1 +1,0 @@
-/usr/bin/c++    -std=c++11 -g   CMakeFiles/string_restoring_test.dir/global_test.cpp.o  -o string_restoring_test ../src/libstring_restoring_lib.so -lgtest -lgtest_main -Wl,-rpath,/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/string_from_prefix/cmake-build-debug/src 

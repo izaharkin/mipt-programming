@@ -1,1 +1,0 @@
-/usr/bin/c++    -std=c++14 -g   CMakeFiles/B2_From_ZFunction.dir/main.cpp.o  -o B2_From_ZFunction src/libstring_restore_lib.so -lgtest -lpthread -Wl,-rpath,/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/string_from_zfunc/cmake-build-debug/src 

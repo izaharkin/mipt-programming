@@ -1,1 +1,0 @@
-/usr/bin/c++   -g   CMakeFiles/hamming_test.dir/hamming_test.cpp.o  -o hamming_test ../src/libhamming_lib.so -lgtest -lgtest_main -Wl,-rpath,/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/hamming_distance/cmake-build-debug/src 

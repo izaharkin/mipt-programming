@@ -1,2 +1,0 @@
-/usr/bin/ar qc libtrees_lib.a  CMakeFiles/trees_lib.dir/HeightSolver.cpp.o
-/usr/bin/ranlib libtrees_lib.a

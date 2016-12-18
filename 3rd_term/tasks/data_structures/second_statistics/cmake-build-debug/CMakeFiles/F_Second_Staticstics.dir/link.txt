@@ -1,1 +1,0 @@
-/usr/bin/c++    -std=c++14 -g   CMakeFiles/F_Second_Staticstics.dir/main.cpp.o  -o F_Second_Staticstics src/libsegment_tree_lib.a -lgtest -lpthread 

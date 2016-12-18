@@ -1,1 +1,0 @@
-/usr/bin/c++   -g   CMakeFiles/substring_test.dir/global_test.cpp.o  -o substring_test ../src/libsubstring_lib.so -lgtest -lgtest_main -Wl,-rpath,/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/substring/cmake-build-debug/src 

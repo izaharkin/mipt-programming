@@ -1,1 +1,0 @@
-/usr/bin/c++  -fPIC -g  -shared -Wl,-soname,libstring_restore_lib.so -o libstring_restore_lib.so CMakeFiles/string_restore_lib.dir/StringFunctions.cpp.o CMakeFiles/string_restore_lib.dir/StringConverter.cpp.o CMakeFiles/string_restore_lib.dir/StringRestoreSolver.cpp.o 

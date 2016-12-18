@@ -1,1 +1,0 @@
-/usr/bin/c++   -g   CMakeFiles/D_Different_subsrtings.dir/main.cpp.o  -o D_Different_subsrtings src/libsufarr_lib.a 

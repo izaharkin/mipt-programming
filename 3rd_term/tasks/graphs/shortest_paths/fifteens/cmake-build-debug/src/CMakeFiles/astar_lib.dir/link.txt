@@ -1,1 +1,0 @@
-/usr/bin/c++  -fPIC -g  -shared -Wl,-soname,libastar_lib.so -o libastar_lib.so CMakeFiles/astar_lib.dir/Action.cpp.o CMakeFiles/astar_lib.dir/Puzzle.cpp.o CMakeFiles/astar_lib.dir/Board.cpp.o CMakeFiles/astar_lib.dir/AStar.cpp.o CMakeFiles/astar_lib.dir/TilesSolver.cpp.o 

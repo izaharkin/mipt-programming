@@ -1,1 +1,0 @@
-/usr/bin/c++   -g   CMakeFiles/distinct_substrings_test.dir/global_test.cpp.o  -o distinct_substrings_test ../src/libsufarr_lib.a -lgtest -lgtest_main -lgtest -lpthread 

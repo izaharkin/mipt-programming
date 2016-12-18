@@ -1,9 +1,0 @@
-/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/minimal_tree/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/minimal_tree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/minimal_tree/cmake-build-debug/CMakeFiles/run_solver.dir
-/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/minimal_tree/cmake-build-debug/src/CMakeFiles/edit_cache.dir
-/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/minimal_tree/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
-/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/minimal_tree/cmake-build-debug/src/CMakeFiles/min_sp_tree_lib.dir
-/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/minimal_tree/cmake-build-debug/test/CMakeFiles/edit_cache.dir
-/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/minimal_tree/cmake-build-debug/test/CMakeFiles/rebuild_cache.dir
-/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/minimal_tree/cmake-build-debug/test/CMakeFiles/run_common_tests.dir

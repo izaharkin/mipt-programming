@@ -1,1 +1,0 @@
-/usr/bin/c++    -std=c++11 -g   CMakeFiles/run_solver.dir/main.cpp.o  -o run_solver src/libtrees_lib.a 

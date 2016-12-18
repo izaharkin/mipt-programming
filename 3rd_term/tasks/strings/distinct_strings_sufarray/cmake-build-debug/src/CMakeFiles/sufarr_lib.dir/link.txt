@@ -1,2 +1,0 @@
-/usr/bin/ar qc libsufarr_lib.a  CMakeFiles/sufarr_lib.dir/DistinctStringSolver.cpp.o CMakeFiles/sufarr_lib.dir/SuffixArray.cpp.o CMakeFiles/sufarr_lib.dir/SuffixArrayStrategy.cpp.o CMakeFiles/sufarr_lib.dir/SubstringsQuantitySolver.cpp.o CMakeFiles/sufarr_lib.dir/utils.cpp.o
-/usr/bin/ranlib libsufarr_lib.a

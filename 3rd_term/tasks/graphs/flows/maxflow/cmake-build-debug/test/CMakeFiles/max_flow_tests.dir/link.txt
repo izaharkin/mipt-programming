@@ -1,1 +1,0 @@
-/usr/bin/c++   -g   CMakeFiles/max_flow_tests.dir/max_flow_test.cpp.o  -o max_flow_tests ../src/libmax_flow_lib.so -lgtest -lgtest_main -Wl,-rpath,/home/ilya/Yandex.Disk/PROGRAMMING/MIPT/3rd_term/tasks/maxflow/cmake-build-debug/src 

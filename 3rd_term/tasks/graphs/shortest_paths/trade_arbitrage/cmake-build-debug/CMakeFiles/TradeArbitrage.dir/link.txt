@@ -1,1 +1,0 @@
-/usr/bin/c++    -std=c++11 -std=c++14 -g   CMakeFiles/TradeArbitrage.dir/A_solution.cpp.o CMakeFiles/TradeArbitrage.dir/Edge.cpp.o CMakeFiles/TradeArbitrage.dir/Graph.cpp.o CMakeFiles/TradeArbitrage.dir/TradeArbitrageSolver.cpp.o  -o TradeArbitrage 

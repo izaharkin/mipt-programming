@@ -1,1 +1,0 @@
-/usr/bin/c++    -std=c++11 -g   CMakeFiles/E1_Treap_height.dir/main.cpp.o  -o E1_Treap_height 
