@@ -8,4 +8,4 @@ Here are my first tasks and control works solved in MIPT
 
 <b>extra_tasks</b> - some other tasks
 
-<b>mini_exam</b - tasks from ladder
+<b>mini_exam</b> - tasks from ladder
